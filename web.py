@@ -1,2 +1,4 @@
-b= 1
-print("solucionando conflicto")
+
+print("es una modificacion")
+a = 6
+
